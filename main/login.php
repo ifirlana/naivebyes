@@ -82,6 +82,9 @@
 }
 		</style>
 	<?php //echo date("Y-m-d H:i:s");?>
+<div class="alert alert-danger" align="center">
+    <strong>Not Support!</strong> Require below PHP 5.0.
+</div>
 	<div class="container">
 
       <form class="form-signin" role="form" method="POST">
